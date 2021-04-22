@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+  🌱 I’m currently learning Bash, Java and C++
+- 💬 Ask me about Lua and web design
+- ⚡ Fun fact: I like to snowboard and ice skate.
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/) and G-mail (nicholasboguckimn@gmail.com).
+
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
