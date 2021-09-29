@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Bash, Java and C++
-- 💬 Ask me about Lua and web design
+- 🌱 I’m currently learning about [Data Structures and Algorithms](https://coderscat.com/how-to-learn-data-structures-and-algorithms/).
+- 💬 Ask me about Lua, Bash, Web Design, C++, and several other coding experiences.
 - ⚡ Fun fact: I like to snowboard and ice skate.
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/) and G-mail (nicholasboguckimn@gmail.com).
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/).
 
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
