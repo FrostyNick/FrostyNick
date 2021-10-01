@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about [Data Structures and Algorithms](https://coderscat.com/how-to-learn-data-structures-and-algorithms/).
 - 💬 Ask me about Lua, Bash, Web Design, C++, and several other coding experiences.
 - ⚡ Fun fact: I like to snowboard and ice skate.
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/).
+- 📫 Reach me by my email (on my location) or [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/.
+- There's a lot of code I want to upload to GitHub! Maybe one day...
 
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
