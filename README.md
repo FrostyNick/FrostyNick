@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like to snowboard and ice skate.
 - 📫 Reach me by my email (on my profile location) or [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/).
 - 📋 There's a lot of code I should upload to GitHub. Maybe one day...
-- 👀 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style. Other styles [here](https://userstyles.org/users/639166).
+- 👀 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles. I personally recommend the [Stylus](https://github.com/openstyles/stylus#releases) extension.
 
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
