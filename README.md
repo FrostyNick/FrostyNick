@@ -7,6 +7,10 @@
 - 📋 There's a lot of code I should upload to GitHub. Maybe one day...
 - 🔭 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles. I personally recommend the [Stylus](https://github.com/openstyles/stylus#releases) extension.
 
+[![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostynick&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
