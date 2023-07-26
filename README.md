@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about [Rust](https://doc.rust-lang.org/stable/book/) and SQL databases.
-- 💬 Ask me about game development, Lua, Bash, Python, C++, and several other coding experiences.
+- 🌱 I’m currently learning about p5.js and Networking.
+- 💬 Ask me about game development, Lua, Rust, Bash, Python, C++, and several other tools.
 - ⚡ Fun fact: I like to snowboard and ice skate.
-- 📫 Reach me by my email (on my profile location) or [LinkedIn](https://www.linkedin.com/in/bogucki-nicholas/).
-- 📋 There's a lot of code I should upload to GitHub. Maybe one day...
-- 🔭 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles. I personally recommend the [Stylus](https://github.com/openstyles/stylus#releases) extension.
+- 📫 Reach me by creating an issue.
+- 📋 There's a lot of code I should upload. Maybe one day...
+- 🔭 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") exists. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
 
 ---
 
