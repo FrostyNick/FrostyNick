@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+Note: My dotfiles repo has been privated due to security concerns. It will be public after further evaluating the situation.
+
+<!-- Move description below to personal website + in a way that doesn't include this generic template? -->
+
 - 🌱 I’m currently learning about p5.js and Networking.
 - 💬 Ask me about game development, Lua, Rust, Bash, Python, C++, and several other tools.
 - ⚡ Fun fact: I like to snowboard and ice skate.
 - 📫 Reach me by creating an issue.
 - 📋 There's a lot of code I should upload. Maybe one day...
-- 🔭 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") exists. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
+- 🔭 I've created css userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") exists. Other styles [here](https://userstyles.org/users/639166). Note this requires something to inject user styles / CSS such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
 
 ---
 
