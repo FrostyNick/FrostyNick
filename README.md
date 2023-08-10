@@ -1,9 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 <!-- Move description below to personal website + in a way that doesn't include this generic template? -->
 
-- 🌱 I’m currently learning about p5.js and Networking.
-- 💬 Ask me about game development, Lua, Rust, Bash, Python, C++, and several other tools.
+#### Currently...
+- 🌱 Learning about p5.js and Networking.
+- 🔨 Working on Rhythm Swipe game.
+
+#### Other things you may want to know
+- 💭 Ask me about game development, Lua, Rust, Bash, Python, C++, and several other tools.
 - ⚡ Fun fact: I like to snowboard and ice skate.
 - 📫 Reach me by creating an issue.
 - 📋 There's a lot of code I should upload. Maybe one day...
