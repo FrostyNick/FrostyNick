@@ -13,6 +13,15 @@
 - 📋 There's a lot of code I should upload. Maybe one day...
 - 🔭 I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
 
+#### *sneek peek*
+
+<details>
+  <summary>👀</summary>
+
+  ![image](https://github.com/FrostyNick/FrostyNick/assets/57016218/e7a53717-6181-452b-816b-94bdc71b991c)
+  
+</details>
+
 ---
 
 [![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,6 +30,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostynick&layout=compact&theme=transparent&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
