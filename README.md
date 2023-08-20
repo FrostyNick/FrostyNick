@@ -3,6 +3,7 @@
 <!-- Move description below to personal website + in a way that doesn't include this generic template? -->
 
 #### Currently...
+- 🕓 Work and college.
 - 🌱 Learning about p5.js and Networking.
 - 🔨 Working on Rhythm Swipe game.
 
@@ -12,15 +13,6 @@
 - 📫 Reach me by creating an issue.
 - 📋 There's a lot of code I should upload. Maybe one day...
 - 🔭 I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
-
-#### *sneek peek*
-
-<details>
-  <summary>👀</summary>
-
-  ![image](https://github.com/FrostyNick/FrostyNick/assets/57016218/e7a53717-6181-452b-816b-94bdc71b991c)
-  
-</details>
 
 ---
 
