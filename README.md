@@ -1,18 +1,27 @@
 ## Hi there 👋
 
-<!-- Move description below to personal website + in a way that doesn't include this generic template? -->
+<!--
+Move description below to personal website + in a way that doesn't include this generic template?
+Conversely, my website could automatically parse this website when there's new changes if that is efficiently possible?
+-->
 
-#### Currently...
+#### At the moment
 - 🕓 Work and college.
 - 🌱 Learning about Networking and Vim.
 <!-- - 🔨 Working on Rhythm Swipe game. -->
 
 #### Other things you may want to know
-- 💭 Ask me about game development, Lua -- with Neovim, Love2D and Roblox, Rust, Bash, Python, C++, Java, Javascript with audioContext, p5.js, and several other skills I forgot to add here.
-- ⚡ Fun fact: I like to snowboard and ice skate.
-- 📫 Reach me by creating an issue.
-- 📋 There's a lot of code I should upload. Maybe one day...
-- 🔭 I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
+- Ask me about game development with Lua combined with Neovim, Love2D or Roblox.
+- Inly projects on my profile with Roblox Lua, p5.js, and Neovim.
+- I've had experience with Bash, Python, Rust, C++, Java, Javascript with audioContext, p5.js, and much more.
+- Fun fact: I like to snowboard and ice skate.
+- There's a lot of code I should upload here. Maybe one day...
+- I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
+
+<!--
+Certified in Minecraft. Not.
+Self-reminder: Mention mega project you know when. Missing date on calendar
+-->
 
 ---
 
@@ -25,14 +34,16 @@
 
 
 <!--
-**FrostyNick/FrostyNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FrostyNick/FrostyNick** is a ✨ _special_ ✨ snowflake because its `README.md` file appears on your concerning GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you to permanantly delete yourself empathetically and physically from GitHub:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on your parents.
+- 🌱 I’m currently learning how to sleep 1% better.
+- 👯 I’m looking to collaborate on the meaning of life.
+- 🤔 I’m looking for help with coding.
+- 💬 Ask me about nothing.
+- ⚡ Fun fact: I have no fun facts. They are all sad facts. 
+- Sad fact: I like pizza on pineapples. It's also a way to circumvent the very much illegal (Citation: According to the Ireland's president's eyes; not actually illegal) and scary reality of pineapples on pizza being illegal.
+- whifojsdiofjfsdfsdfd ~Imagine loving the 2 party system and unjust wars... bruh~
 -->
