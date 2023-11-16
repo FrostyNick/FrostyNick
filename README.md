@@ -8,7 +8,7 @@ Conversely, my website could automatically parse this website when there's new c
 #### At the moment
 - 🕓 Work and college.
 - 🌱 Learning about Networking and Vim.
-<!-- - 🔨 Working on Rhythm Swipe game. -->
+- 🔨 Working on Rhythm Swipe game.
 
 #### Other things you may want to know
 - Ask me about game development with Lua combined with Neovim, Love2D or Roblox.
