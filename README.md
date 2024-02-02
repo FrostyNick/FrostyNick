@@ -6,14 +6,15 @@ Conversely, my website could automatically parse this website when there's new c
 -->
 
 #### At the moment
-- 🕓 Working at IT desk and taking finals as of mid-December 2023.
-- 🌱 Learning about Networking and [Vim](https://github.com/vim/vim).
-  - To find some learning resources for learning Vim/[Neovim](https://github.com/neovim/neovim) (a popular fork of Vim), check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) instructions and setup. Feedback is welcome.
-- 🔨 Committed to Alpha v2.0 release of the [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe) game. Learn more and try it online [here](https://projectrhythmswipe.netlify.app/).
+- 🕓 Working at IT desk and looking into club leadership roles lately.
+- 🌱 Learning about [Godot](https://github.com/godotengine/godot) and [Vim](https://github.com/vim/vim).
+  - To find some learning resources for learning Vim and [Neovim](https://github.com/neovim/neovim) (a popular fork of Vim), check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) instructions and setup. Feedback is welcome.
+- 🔨 Committed to a new challenge which I won't mention yet.
 
 #### Other things you may want to know
-- Ask me about game development combined with Lua, p5.js, Neovim, Love2D or Roblox.
-- I've had experience with Bash, Python, Rust, C++, Java, Javascript with audioContext, and much more.
+- Ask me about game development combined with Lua, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
+- I've had experience with system configurations in Bash, ZSH, and Python.
+- Programming languages include but are not limited to Rust, C++, Java, Javascript with audioContext, and much more.
 - Fun fact: I like to snowboard and ice skate.
 - There's a lot of code I should upload here. Maybe one day...
 - I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
