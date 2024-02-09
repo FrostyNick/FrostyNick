@@ -8,14 +8,14 @@ Conversely, my website could automatically parse this website when there's new c
 #### At the moment
 - 🕓 Working at IT desk and looking into club leadership roles lately.
 - 🌱 Learning about [Godot](https://github.com/godotengine/godot) and Cybersecurity.
-  - To find some learning resources for learning [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) (a popular fork of Vim), check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) instructions and setup. Feedback is welcome.
 - 🔨 Committed to a new challenge which I won't mention yet.
 
 #### Other things you may want to know
+- I know about [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) after many essays and coding projects using them to automate actions with Linux, Termux, and Windows. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to learn more. Feedback is welcome.
 - Ask me about game development combined with Lua, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
 - I've had experience with system configurations in Bash, ZSH, and Python.
 - Programming languages include but are not limited to Rust, C++, Java, Javascript with audioContext, and much more.
-- Primarily developing on the Linux Desktop. Windows and MacOS for work also.
+- Primarily developing on the Linux Desktop with some Windows and MacOS knowledge.
 - Fun fact: I like to snowboard and ice skate.
 - There's a lot of code I should upload here. Maybe one day...
 - I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
