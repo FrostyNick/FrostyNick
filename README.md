@@ -8,10 +8,9 @@ Conversely, my website could automatically parse this website when there's new c
 #### At the moment
 - 🕓 Working at IT desk and looking into club leadership roles lately.
 - 🌱 Learning about [Godot](https://github.com/godotengine/godot) and Cybersecurity.
-- 🔨 Committed to a new challenge which I won't mention yet.
 
 #### Other things you may want to know
-- I know about [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) after many essays and coding projects using them to automate actions with Linux, Termux, and Windows. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to learn more. Feedback is welcome.
+- I've used [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) to automate textual actions in essays and code with Linux, Termux, and Windows. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to get started on or learn more about vim/neovim. Feedback is welcome.
 - Ask me about game development combined with Lua, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
 - I've had experience with system configurations in Bash, ZSH, and Python.
 - Programming languages include but are not limited to Rust, C++, Java, Javascript with audioContext, and much more.
@@ -38,16 +37,12 @@ Self-reminder: Mention mega project you know when. Missing date on calendar
 
 
 <!--
-**FrostyNick/FrostyNick** is a ✨ _special_ ✨ snowflake because its `README.md` file appears on your concerning GitHub profile.
-
-Here are some ideas to get you to permanantly delete yourself empathetically and physically from GitHub:
+Here are some ideas to permanantly delete yourself empathetically and physically from GitHub:
 
 - 🔭 I’m currently working on your parents.
-- 🌱 I’m currently learning how to sleep 1% better.
+- 🌱 I’m currently learning how to sleep 0.1% better.
 - 👯 I’m looking to collaborate on the meaning of life.
-- 🤔 I’m looking for help with coding.
+- 🤔 I’m looking for help with gambling away all my money.
 - 💬 Ask me about nothing.
-- ⚡ Fun fact: I have no fun facts. They are all sad facts. 
-- Sad fact: I like pizza on pineapples. It's also a way to circumvent the very much illegal (Citation: According to the Ireland's president's eyes) and scary reality of pineapples on pizza being illegal.
-- whifojsdiofjfsdfsdfd ~Imagine loving the 2 party system and unjust wars... bruh~
+- ⚡ Fun fact: I have no fun facts. They are all sad facts.
 -->
