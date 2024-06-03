@@ -6,12 +6,13 @@ Conversely, my website could automatically parse this website when there's new c
 -->
 
 #### At the moment
-- 🕓 Working at IT desk and looking into club leadership roles lately.
+- 🕓 Working in IT Support at Century.
 - 🌱 Learning about [Godot](https://github.com/godotengine/godot) and Cybersecurity.
+- 🎲 Software Game Developer and Sound Producer at Sandboa. 
 
 #### Other things you may want to know
-- I've used [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) to automate textual actions in essays and code with Linux, Termux, and Windows. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to get started on or learn more about vim/neovim. Feedback is welcome.
-- Ask me about game development combined with Lua, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
+- I've used [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) to automate everyday general typing and coding with Termux, Linux, Windows, and MacOS. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to get started on or learn more about vim/neovim. Feedback is welcome.
+- Ask me about game development combined with Godot, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
 - I've had experience with system configurations in Bash, ZSH, and Python.
 - Programming languages include but are not limited to Rust, C++, Java, Javascript with audioContext, and much more.
 - Primarily developing on the Linux Desktop with some Windows and MacOS knowledge.
