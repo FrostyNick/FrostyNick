@@ -18,7 +18,7 @@ Conversely, my website could automatically parse this website when there's new c
 - Primarily developing on the Linux Desktop with some Windows and MacOS knowledge.
 - Fun fact: I like to snowboard and ice skate.
 - There's a lot of code I should upload here. Maybe one day...
-- I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles are on [my userstyles.org profile](https://userstyles.org/users/639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension.
+- I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles I created are on [uso.kkx.one](https://uso.kkx.one/browse/styles/?search=%40639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension. Also ⚠️ warning: Please do not attempt to view my profile on userstyles.org or use the Stylish (Stylus is safe) web extension. They have been known to have collected people's search history and may be doing so to this day.
 
 <!--
 Certified in Minecraft. Not.
