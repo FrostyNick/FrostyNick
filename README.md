@@ -5,20 +5,21 @@ Move description below to personal website + in a way that doesn't include this 
 Conversely, my website could automatically parse this website when there's new changes if that is efficiently possible?
 -->
 
-#### At the moment
-- 🕓 Working in IT Support at Century.
-- 🌱 Learning about [Godot](https://github.com/godotengine/godot) and Cybersecurity.
-- 🎲 Software Game Developer and Sound Producer at Sandboa. 
+### About
 
-#### Other things you may want to know
-- I've used [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/neovim/neovim) to automate everyday general typing and coding with Termux, Linux, Windows, and MacOS. Check out my [nvim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) to get started on or learn more about vim/neovim. Feedback is welcome.
-- Ask me about game development combined with Godot, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D or Roblox.
-- I've had experience with system configurations in Bash, ZSH, and Python.
-- Programming languages include but are not limited to Rust, C++, Java, Javascript with audioContext, and much more.
-- Primarily developing on the Linux Desktop with some Windows and MacOS knowledge.
-- Fun fact: I like to snowboard and ice skate.
-- There's a lot of code I should upload here. Maybe one day...
-- I've created CSS userstyles in the past such as a [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) style before I knew that [Unhook](https://unhook.app/ "Unhook - Remove YouTube Recommended Videos and More") existed. Other styles I created are on [uso.kkx.one](https://uso.kkx.one/browse/styles/?search=%40639166). Note this requires something to inject (CSS) user styles such as the [Stylus](https://github.com/openstyles/stylus#releases) extension. Also ⚠️ warning: Please do not attempt to view my profile on userstyles.org or use the Stylish (Stylus is safe) web extension. They have been known to have collected people's search history and may be doing so to this day.
+- Provided Python/Java and IT support at Century.
+- Software Game Developer and Sound Producer at Sandboa.
+- Learning about [Godot](https://github.com/godotengine/godot) and Cybersecurity.
+- [Vim](https://github.com/vim/vim) and [Neovim](https://github.com/FrostyNick/dotfiles/tree/main/.config/nvim) addict... efficient general typing, math and coding on Termux, Linux, Windows, and MacOS.
+- CSS userstyles to make websites slightly better: [my account on uso.kkx.one](https://uso.kkx.one/browse/styles/?search=%40639166). Use [Stylus](https://github.com/openstyles/stylus#releases) extension to install userstyles. Planning to return as a side thing.
+- Feel free to open an issue or discussion on my profile/projects if you have any questions, bug fixes, or ideas.
+
+<!-- Too many words... (and the graphs below exists for code usage) I'm trying to have a more concise README. Since you're here... you can see the other things.. I know I can "hide" info with <details> ... but I think more is less... unless you're here.
+- LuaJIT is fast, easy and takes very little space compared to other languages on your system (looking at you Python).. and you can transpile it from [Fennel](https://git.sr.ht/~technomancy/fennel) or Coffeescript if you don't like the syntax. Highly recommended as an extra tool to know.
+- Still postponing uploading a lot of code I should upload here. Maybe one day...
+- Godot, p5.js (with [Rhythm Swipe](https://github.com/FrancisTR/Rhythm-Swipe)), Neovim, Love2D, and Roblox.
+- Some Programming languages I've used in projects: Rust, C++, Java, Javascript with audioContext, Bash, ZSH, and Python.
+-->
 
 <!--
 Certified in Minecraft. Not.
@@ -27,7 +28,7 @@ Self-reminder: Mention mega project you know when. Missing date on calendar
 
 ---
 
-<!-- These stats might seem more simple, but they are quite accessible. Accessibility is important for websites in general. -->
+<!-- These stats are simple for accessiblity reasons. For example: With dark modes and high contrast. Accessibility is great to have on websites in general. -->
 
 [![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
@@ -42,8 +43,8 @@ Here are some ideas to permanantly delete yourself empathetically and physically
 
 - 🔭 I’m currently working on your parents.
 - 🌱 I’m currently learning how to sleep 0.1% better.
-- 👯 I’m looking to collaborate on the meaning of life.
+- 👯 I’m looking to collaborate on the meaning of nothing.
 - 🤔 I’m looking for help with gambling away all my money.
-- 💬 Ask me about nothing.
+- 💬 Ask me about the weather.
 - ⚡ Fun fact: I have no fun facts. They are all sad facts.
 -->
