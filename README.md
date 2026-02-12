@@ -21,30 +21,26 @@ Conversely, my website could automatically parse this website when there's new c
 - Some Programming languages I've used in projects: Rust, C++, Java, Javascript with audioContext, Bash, ZSH, and Python.
 -->
 
-<!--
-Certified in Minecraft. Not.
-Self-reminder: Mention mega project you know when. Missing date on calendar
--->
+<!-- Below stats are simple for accessiblity reasons. For example: With dark modes and high contrast. Accessibility is great to have on websites in general. -->
+
+<!-- Due to recent rate limiting with vercel, this has been removed and may come back in further notice in some shape or form.
 
 ---
 
-<!-- These stats are simple for accessiblity reasons. For example: With dark modes and high contrast. Accessibility is great to have on websites in general. -->
-
 [![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![FrostyNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostynick&count_private=true&theme=transparent&show_icons=true&hide=stars#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostynick&layout=compact&theme=transparent&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
-Here are some ideas to permanantly delete yourself empathetically and physically from GitHub:
+Here are some ideas which you can take a grain of salt with:
 
 - 🔭 I’m currently working on your parents.
 - 🌱 I’m currently learning how to sleep 0.1% better.
 - 👯 I’m looking to collaborate on the meaning of nothing.
 - 🤔 I’m looking for help with gambling away all my money.
 - 💬 Ask me about the weather.
-- ⚡ Fun fact: I have no fun facts. They are all sad facts.
+- ⚡ Fun fact: I have no fun facts by default.
 -->
