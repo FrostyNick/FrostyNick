@@ -14,6 +14,8 @@ Conversely, my website could automatically parse this website when there's new c
 - CSS userstyles to make websites slightly better: [my account on uso.kkx.one](https://uso.kkx.one/browse/styles/?search=%40639166). Use [Stylus](https://github.com/openstyles/stylus#releases) extension to install userstyles. Planning to return as a side thing.
 - Feel free to open an issue or discussion on my profile/projects if you have any questions, bug fixes, or ideas.
 
+![My contribution map](village.svg)
+
 <!-- Too many words... (and the graphs below exists for code usage) I'm trying to have a more concise README. Since you're here... you can see the other things.. I know I can "hide" info with <details> ... but I think more is less... unless you're here.
 - LuaJIT is fast, easy and takes very little space compared to other languages on your system (looking at you Python).. and you can transpile it from [Fennel](https://git.sr.ht/~technomancy/fennel) or Coffeescript if you don't like the syntax. Highly recommended as an extra tool to know.
 - Still postponing uploading a lot of code I should upload here. Maybe one day...
